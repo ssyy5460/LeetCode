@@ -6,11 +6,11 @@ class Solution(object):
         :rtype: List[int]
         """
         
-        result = {}
+        result = {} # 값 : 인덱
         n = len(nums)
 
         for i, num in enumerate(nums):
-            complement = target - num
-            if complement in result:
-                return [result[complement],i ]
-            result[num] = i
+            complement = target - num # 짝꿍 값 확인
+            if complement in result: # 짝꿍값 result에 있음
+                return [result[complement], i ] 
+            result[num] = i # 없으면 추가
