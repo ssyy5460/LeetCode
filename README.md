@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ssyy5460/LeetCode/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/ssyy5460/LeetCode/tree/master/0016-3sum-closest) |
+| [0682-baseball-game](https://github.com/ssyy5460/LeetCode/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ssyy5460/LeetCode/tree/master/0016-3sum-closest) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/ssyy5460/LeetCode/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/ssyy5460/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
