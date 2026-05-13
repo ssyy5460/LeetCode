@@ -1,11 +1,10 @@
 # Unitsold는 중복된 행이 있을 것으로 보임
 # 판매 가격의 평균 =  상품의 팔민 가격 / 상품의 전체 가격
 
-SELECT 
-    p.product_id, 
-    IFNULL(ROUND(SUM(p.price * u.units) / SUM(u.units), 2), 0) AS average_price
-FROM Prices p
-LEFT JOIN UnitsSold u
-    ON p.product_id = u.product_id
-    AND u.purchase_date BETWEEN p.start_date AND p.end_date
-GROUP BY p.product_id;
+SELECT P.PRODUCT_ID, 
+    IFNULL(ROUND(SUM(P.PRICE * U.UNITS) / SUM(U.UNITS), 2), 0) AS average_price
+FROM PRICES P
+LEFT JOIN UNITSSOLD U
+ON P.PRODUCT_ID = U.PRODUCT_ID AND U.PURCHASE_DATE BETWEEN START_DATE AND END_DATE
+GROUP BY P.PRODUCT_ID
+ORDER BY PRODUCT_ID ASC;
