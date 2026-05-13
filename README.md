@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/ssyy5460/LeetCode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/ssyy5460/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/ssyy5460/LeetCode/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/ssyy5460/LeetCode/tree/master/0620-not-boring-movies) |
 | [1251-average-selling-price](https://github.com/ssyy5460/LeetCode/tree/master/1251-average-selling-price) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/ssyy5460/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/ssyy5460/LeetCode/tree/master/1341-movie-rating) |
