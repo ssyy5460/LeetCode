@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/ssyy5460/LeetCode/tree/master/1148-article-views-i) |
 | [1158-market-analysis-i](https://github.com/ssyy5460/LeetCode/tree/master/1158-market-analysis-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/ssyy5460/LeetCode/tree/master/1174-immediate-food-delivery-ii) |
+| [1193-monthly-transactions-i](https://github.com/ssyy5460/LeetCode/tree/master/1193-monthly-transactions-i) |
 | [1251-average-selling-price](https://github.com/ssyy5460/LeetCode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/ssyy5460/LeetCode/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/ssyy5460/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
