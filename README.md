@@ -62,4 +62,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/ssyy5460/LeetCode/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/ssyy5460/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/ssyy5460/LeetCode/tree/master/1341-movie-rating) |
+| [1667-fix-names-in-a-table](https://github.com/ssyy5460/LeetCode/tree/master/1667-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
