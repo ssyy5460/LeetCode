@@ -46,5 +46,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/ssyy5460/LeetCode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/ssyy5460/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0511-game-play-analysis-i](https://github.com/ssyy5460/LeetCode/tree/master/0511-game-play-analysis-i) |
+| [0550-game-play-analysis-iv](https://github.com/ssyy5460/LeetCode/tree/master/0550-game-play-analysis-iv) |
 | [0577-employee-bonus](https://github.com/ssyy5460/LeetCode/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
